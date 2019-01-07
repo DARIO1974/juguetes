@@ -1,1 +1,4 @@
 # juguetes
+bicicleta
+bombo
+muñeca
